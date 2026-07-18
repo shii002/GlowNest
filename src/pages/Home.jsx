@@ -8,6 +8,7 @@ function Home() {
       <Navbar />
       <Hero />
       <Categories />
+      <Products />  
     </>
   );
 }
